@@ -12,7 +12,7 @@ http
       };
 
       const result = {
-        message: 'id71293382',
+        message: 'itmo315663',
         'x-result': req.headers['x-test'],
       };
       let body = '';
